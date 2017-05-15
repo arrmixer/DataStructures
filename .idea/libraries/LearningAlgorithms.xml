@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LearningAlgorithms">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../LearningAlgorithms" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../LearningAlgorithms/src" />
+    </SOURCES>
+  </library>
+</component>
